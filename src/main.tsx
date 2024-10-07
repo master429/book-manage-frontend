@@ -3,6 +3,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { BookManage } from "./BookManage";
 import { Login } from "./Login";
 import { Register } from "./Register";
+import "./index.css";
 
 const routes = [
   {
